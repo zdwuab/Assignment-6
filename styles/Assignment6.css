@@ -1,0 +1,9 @@
+#Section1 {visibility: hidden; position: absolute; width: 600px;}
+#Section2 {visibility: hidden; position: absolute; width: 600px;}
+#Section3 {visibility: hidden; position: absolute; width: 600px;}
+
+.example {font-style: italic; color: red; }
+
+#delete {visibility: hidden;}
+
+body {background-color: #d0e4fe;}
